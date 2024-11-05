@@ -1,0 +1,72 @@
+# System files to ignore
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build directories
+build/
+dist/
+
+# Cache directories and files
+.cache/
+*.cache
+
+# Editor configuration files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test output
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+
+# SASS cache
+.sass-cache/
+
+# OS-specific files
+*.bak
+*.old
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Ignore compiled files
+*.out
+*.class
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore macOS specific files
+.AppleDouble
+.LSOverride
+
+# Ignore Windows specific files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ignore IDE specific files
+*.iml
+*.ipr
+*.iws
