@@ -1,6 +1,6 @@
 ```markdown
-# Deploy 
-simple project to deploy an backend and frontend
+# Fast Deploy
+Projeto simples, com um backend já configurado e integrado com o frontend, é só copiar e começar a desenvolver
 
 ## Tecnologias Utilizadas
 
@@ -18,7 +18,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/arthurvicente/projects.git
 cd seu-repositorio
 ```
 
@@ -98,5 +98,5 @@ seu-repositorio/
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LINK_INDISPONIVEL) para mais detalhes.
 ```
