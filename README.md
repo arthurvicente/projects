@@ -1,9 +1,6 @@
-Claro! Aqui está o README.md formatado com todas as informações que você forneceu:
-
 ```markdown
-# Nome do Projeto
-
-Descrição breve do projeto e suas funcionalidades principais.
+# Deploy 
+simple project to deploy an backend and frontend
 
 ## Tecnologias Utilizadas
 
@@ -71,7 +68,8 @@ npm install
 ```plaintext
 seu-repositorio/
 ├── backend/
-│   ├── server.js
+│   ├── src/
+      |------ server.js
 │   ├── ...
 ├── frontend/
 │   ├── src/
