@@ -44,7 +44,7 @@ router.post("/upload", upload.single("file"), (req, res) => {
 // Simple route to return a message
 router.get("/", (req, res) => {
   try {
-    res.send({ message: "Hello from the backend!" }); // Send a simple message
+    res.send({ message: "Vai ter vuco vuco hoje?" }); // Send a simple message
   } catch (error) {
     console.error("Error handling request:", error); // Log any errors
     res.status(500).send({ error: "Internal Server Error" }); // Send error response
